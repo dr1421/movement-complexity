@@ -1,3 +1,10 @@
+**A Complexity Scoring FrameWork and its Effect on the Human-likeness of robotic arm moments**
+D. Rodrigues, E. Costa e Silva, P. Ribeiro, I. Costa, G. Gulletta, L. Louro, S. Monteiro, A. Cardoso, A. Colim, and E. Bicho, “A complexity scoring framework and its effect on the human-likeness of robotic arm movements,” The International Journal of Advanced
+Manufacturing Technology, Nov. 2025.
+**Evaluating Shelf Position Complexity for Unimanual and Bimanual Robot Restocking**
+D. Rodrigues, E. Costa e Silva, I. Costa, L. Louro, and E. Bicho, “Evaluating shelf position complexity for unimanual and bimanual robotic restocking,” in Proc. 2026 IEEE Int. Conf. Auton. Robot Syst. Competitions (ICARSC), 2026, pp. 61–66.
+
+
 # Complexity Movement Evaluation
 
 Code for evaluation of the complexity of a given movement.
