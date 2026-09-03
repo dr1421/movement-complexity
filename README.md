@@ -8,6 +8,7 @@ Manufacturing Technology, Nov. 2025.
 
 D. Rodrigues, E. Costa e Silva, I. Costa, L. Louro, and E. Bicho, “Evaluating shelf position complexity for unimanual and bimanual robotic restocking,” in Proc. 2026 IEEE Int. Conf. Auton. Robot Syst. Competitions (ICARSC), 2026, pp. 61–66.
 
+---
 
 # Complexity Movement Evaluation
 
